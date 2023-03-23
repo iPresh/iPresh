@@ -11,7 +11,7 @@ I'm a Product designer turned Software Engineer and Content creator. I'm passion
 - 🌱 I’m currently learning JavaScript, Python, AWS, Azure, and GCP.
 - 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
 - 💼 Job interests: Software Engineer, or Cloud Engineer (Intern or Junior level).
-- 📫 You can [view my resume](#) and contact me by emailing amuhprecious@gmail.com.
+- 📫 You can [view my resume](https://docs.google.com/document/d/1BDWLzGX2fLPOTIxx75iEY99xyJHlIWcaf76EOURdwVk/edit?usp=sharing)
 
 ---
 
