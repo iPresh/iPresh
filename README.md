@@ -9,9 +9,8 @@ I'm a Software Engineer and Technical Writer. I'm passionate about documentation
 - 😊 Pronouns: She/her
 - 💡 Fun fact: I'm currently studying at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2022.
 - 🌱 I’m currently learning JavaScript, Python, AWS, Azure, and GCP.
-- 😊 I write technical content on [Hashnode](https://preciousamuh.hashnode.dev) 
-- 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
-- 💼 Job interests: Software Engineer, or Cloud Engineer (Intern or Junior level).
+- ✍ I write technical content on [Hashnode](https://preciousamuh.hashnode.dev) 
+- 💼 Job interests: Cloud and DevOps Engineering.
 - 📫 You can [view my resume](https://docs.google.com/document/d/1BDWLzGX2fLPOTIxx75iEY99xyJHlIWcaf76EOURdwVk/edit?usp=sharing)
 
 ---
