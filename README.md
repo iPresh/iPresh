@@ -7,7 +7,7 @@ I'm a Software Engineer and Technical Writer. I'm passionate about documentation
 **Here's a quick summary about me**:
 
 - 😊 Pronouns: She/her
-- 💡 Fun fact: I love reading fiction books and visiting new places
+- 💡 Fun fact: I love reading fiction and visiting new places
 - 🌱 I’m currently learning JavaScript, Python, AWS, Azure, and GCP
 - ✍ I write technical content on [Hashnode](https://preciousamuh.hashnode.dev) 
 - 💼 Job interests: Cloud and DevOps Engineering
